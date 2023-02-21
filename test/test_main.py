@@ -5,5 +5,5 @@ def test_main():
 	bulkfilechanger = BulkFileChanger()
 	bulkfilechanger.run()
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 	raise SystemExit(test_main())
